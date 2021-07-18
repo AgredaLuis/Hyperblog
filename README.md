@@ -5,7 +5,7 @@ Blog de estudio para practicar merge entre distintas ramas
 
 > - Acotacion, pase rayo haciendoesto
 
-###Esto es un curso que descargui por mega
+### Esto es un curso que descargui por mega
 
 Y recordatorio tambien se practico como usar los archivos .md como por ejemplo este README.md , y se puede utilizar la erramienta pantao.github.ou
 
